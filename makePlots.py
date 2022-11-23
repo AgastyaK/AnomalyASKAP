@@ -1,3 +1,5 @@
+# Author: Agastya Kapur
+# Sample file 'FOUR.txt'
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
@@ -109,5 +111,5 @@ def doPlots(txtfile):
     plt.show()
     
     
-    doPlots("TWO.txt")
+doPlots("FOUR.txt")
     
