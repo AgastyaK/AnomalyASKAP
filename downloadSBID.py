@@ -25,8 +25,10 @@ def geturls(url,SBID):
         URL.append(re.findall("<a href='(.*)'>", string))
   return URL
 
+### Would need to have a file called SBID.txt (or anything really)
+### with SBID names separated in lines
 
-with open('SBID4k.txt') as f:
+with open('SBID.txt') as f:
     SBID = f.readlines()
     for idnum in np.arange(len(SBID)):
       SBIDC = str(SBID[idnum])[0:5]
