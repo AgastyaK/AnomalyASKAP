@@ -1,3 +1,5 @@
+# Author: Matt Austin
+
 import logging
 import pathlib
 
