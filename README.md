@@ -1,6 +1,6 @@
 # PACE-Proj
 
-Agastya Kapur PACE Project,
+Agastya Kapur PACE Project on finding Anomalies in ASKAP diagnostic waterfall plots,
 
 https://drive.google.com/drive/folders/1HcRaNOWzSNsEZpgNY7SUHF50yGsHv02K?usp=sharing
 
